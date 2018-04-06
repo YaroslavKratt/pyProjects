@@ -1,0 +1,70 @@
+[
+    {
+        "a": 0.148, 
+        "curveclass": null, 
+        "ident": "", 
+        "orientation": "H", 
+        "points": [
+            {
+                "abs_error": 0.5, 
+                "angle": null, 
+                "approx_len": 1.0, 
+                "color": "2", 
+                "nodekind": null, 
+                "trust": "manual", 
+                "value": "28000", 
+                "x": 769.8749886093751, 
+                "y": 3056.7499543362505
+            }, 
+            {
+                "abs_error": 1.5, 
+                "angle": null, 
+                "approx_len": 4.0, 
+                "color": "2", 
+                "nodekind": null, 
+                "trust": "manual", 
+                "value": "56000", 
+                "x": 2414.1249640056253, 
+                "y": 3060.9999542350006
+            }
+        ], 
+        "tag": "095634fa-0b99-4564-ac6e-cc68ab78d46f", 
+        "tagvalue": "GROSS_WEIGHT", 
+        "uom": "e44905a4-345d-4d44-9be8-1e22a9918176", 
+        "uuid": "a88e4b6a-8e38-4e80-9ac7-3b846b1ec1f9"
+    }, 
+    {
+        "a": 89.832, 
+        "curveclass": null, 
+        "ident": "", 
+        "orientation": "V", 
+        "points": [
+            {
+                "abs_error": 8.5, 
+                "angle": null, 
+                "approx_len": 14.0, 
+                "color": "1", 
+                "nodekind": null, 
+                "trust": "manual", 
+                "value": "80", 
+                "x": 647.3749904318751, 
+                "y": 1285.5323866005326
+            }, 
+            {
+                "abs_error": 9.5, 
+                "angle": null, 
+                "approx_len": 37.0, 
+                "color": "1", 
+                "nodekind": null, 
+                "trust": "manual", 
+                "value": "-60", 
+                "x": 652.2175831257177, 
+                "y": 2934.76847467727
+            }
+        ], 
+        "tag": "63da0eab-aa10-44bd-8dba-6bbe61a11083", 
+        "tagvalue": "AIRPORT_OAT", 
+        "uom": "46dc049c-c3e5-45e3-93ef-fcb9c84455ab", 
+        "uuid": "1d9850bc-547b-4339-b741-8fbd1bbd54f8"
+    }
+]
